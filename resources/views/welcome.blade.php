@@ -19,6 +19,7 @@
     </head>
     <body class="antialiased">
     <p class="text-red-500 font-bold">this is welcome text 2</p>
+    <p class="text-red-500 font-bold">this is welcome text 2</p>
     @livewireScripts
     </body>
 </html>
